@@ -2,10 +2,10 @@
   "name": "rendernode",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.html"
   },
   "keywords": [],
   "author": "",
